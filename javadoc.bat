@@ -1,0 +1,1 @@
+cmd.exe /X /C "C:\Users\Home\.jdks\corretto-11.0.24\bin\javadoc.exe @options @packages @argfile"
